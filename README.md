@@ -22,11 +22,11 @@ We will be operating under the Sprint schedule with frequent rapid development
 
 # Group Information
 
-The group consists of 4 members:
-    Erik Aguilar
-    James Carton
-    Isaiah Martinez
-    Tigran Meliksetyants
+The group consists of 4 members: <br />
+    Erik Aguilar<br />
+    James Carton<br />
+    Isaiah Martinez<br />
+    Tigran Meliksetyants<br />
 
 We are all seniors within Computer Science at CSUN, however none of us have any game design or game creation experience
 

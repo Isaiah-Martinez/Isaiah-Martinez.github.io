@@ -1,4 +1,4 @@
-# Isaiah-Martinez.github.io - README
+# Isaiah-Martinez.github.io
 
 This will function as the website for our group project for Comp 482L - Senior Design Project
 

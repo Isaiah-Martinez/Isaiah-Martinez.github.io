@@ -2,7 +2,7 @@
 
 This will function as the website for our group project for Comp 482L - Senior Design Project
 
-##############################################################################################################
+####################################################################################
 
 # Project Information
 
@@ -12,7 +12,7 @@ The website will serve as both a blog and a connection point between us (the dev
 
 We will be operating under the Sprint schedule with frequent rapid development
 
-##############################################################################################################
+####################################################################################
 
 # Group Information
 
@@ -26,6 +26,6 @@ We are all seniors within Computer Science at CSUN, however none of us have any 
 
 We hope to learn about the process that goes into game development starting from inception to release
 
-##############################################################################################################
+####################################################################################
 
 # Thank you

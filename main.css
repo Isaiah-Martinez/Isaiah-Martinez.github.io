@@ -40,6 +40,7 @@ h6 {
     color: #9e1922;
 }
 
-b {
-    color: #ffdab9;
+body {
+    background-color: #ffdab9;
+    color: black;
 }

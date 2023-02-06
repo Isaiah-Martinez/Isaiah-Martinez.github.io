@@ -1,17 +1,32 @@
-.header {
+/* Change background image to reflect purpose/scope of project */
+body {
+    background: #ffdab9;
+}
+
+.header , .footer{
+    text-align: center;
     overflow: hidden;
     background-color: darkgreen;
     padding: 20px 10px;
 }
 
-.header a {
-    float: right;
+.header a , .footer a{
     color: black;
-    text-align: center;
     padding: 12px;
     text-decoration: none;
     font-size: 18px;
     border-radius: 4px;
+    border-color: #9e1922;
+}
+
+.header a:hover , .footer a:hover {
+    background-color: darkred;
+    color: black;
+}
+
+.header a:active , .footer a:active {
+    background-color: blue;
+    color: white;
 }
 
 h1 {
@@ -56,6 +71,3 @@ h6 {
     color: #9e1922;
 }
 
-body {
-    background: #ffdab9;
-}

@@ -1,7 +1,17 @@
 .header {
     overflow: hidden;
-    background-color: blue;
+    background-color: darkgreen;
     padding: 20px 10px;
+}
+
+.header a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 4px;
 }
 
 h1 {

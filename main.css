@@ -45,9 +45,15 @@ body {
     text-align: center;
 }
 
+ul {
+    margin: 0 auto;
+    display: table;
+}
+
 li {
     margin-bottom: 20px;
 }
+
 /* Fonts:
 
 sans-serif
